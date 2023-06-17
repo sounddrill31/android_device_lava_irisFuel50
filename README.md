@@ -22,4 +22,6 @@ Device_Path: device/lava/irisFuel50
 
 Device Name: irisFuel50
 
+Makefile_Name: omni_irisFuel50
+
 Build_Target: recovery
